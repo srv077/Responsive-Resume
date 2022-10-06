@@ -1,2 +1,2 @@
 ﻿# Responsive-Resume
-https://app.netlify.com/sites/stellar-seahorse-35569c
+ https://stellar-seahorse-35569c.netlify.app/
