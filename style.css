@@ -32,7 +32,7 @@ body{
     border:5px solid white;
     border-radius: 30%;
     width:60%;
-    height:100px;
+    height:fit-content;
 }
 .name{
     text-align: center;
